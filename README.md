@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @himanshu-rawat77
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me linkedin.com/in/himanshu-rawat-1011sh
 
 <!---
 himanshu-rawat77/himanshu-rawat77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
