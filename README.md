@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @himanshu-rawat77
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Cloud Computing 
+- 👀 I’m interested in AR
+- 🌱 I’m currently learning Blender,3D Modelling, AR effect creation
 - 📫 How to reach me linkedin.com/in/himanshu-rawat-1011sh
 
 <!---
